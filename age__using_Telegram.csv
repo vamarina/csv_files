@@ -1,14 +1,4 @@
-Caucasus Barometer 2021 Armenia
-
-MAPPTL: Do you use the following messenger platforms and applications: Telegram
-Question text: Do you use the following messenger platforms and applications:Telegram,
-Note: The question was asked to the respondents who use the Internet
-
-AGEGROUP: Age of the respondent
-Question text: Age of the respondent
-"Note: The variable is generated from AGE variable, present in the original dataset"
-
-Cross tabulation (%),Mentioned,Not mentioned,DK
+Telegram: Cross tabulation (%),Mentioned,Not mentioned,DK
 18-34,37,63,0
 35-54,17,83,0
 55+,4,95,0
