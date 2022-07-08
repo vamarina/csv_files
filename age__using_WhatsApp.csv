@@ -1,0 +1,14 @@
+Caucasus Barometer 2021 Armenia
+
+MAPPWTS: Do you use the following messenger platforms and applications: Whatsapp
+Question text: Do you use the following messenger platforms and applications:Whatsapp,
+Note: The question was asked to the respondents who use the Internet
+
+AGEGROUP: Age of the respondent
+Question text: Age of the respondent
+"Note: The variable is generated from AGE variable, present in the original dataset"
+
+Cross tabulation (%),Mentioned,Not mentioned,DK
+18-34,76,24,0
+35-54,62,38,0
+55+,41,59,0
